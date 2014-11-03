@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixpanel.AspNetMvc", "Mixpanel.AspNetMvc\Mixpanel.AspNetMvc.csproj", "{F890308A-B123-45CB-B277-15BB1BEED6D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Web", "Example.Web\Example.Web.csproj", "{21C8DD57-952D-44F7-8E12-BCE4617BDF96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F890308A-B123-45CB-B277-15BB1BEED6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F890308A-B123-45CB-B277-15BB1BEED6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F890308A-B123-45CB-B277-15BB1BEED6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C8DD57-952D-44F7-8E12-BCE4617BDF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C8DD57-952D-44F7-8E12-BCE4617BDF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C8DD57-952D-44F7-8E12-BCE4617BDF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C8DD57-952D-44F7-8E12-BCE4617BDF96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
